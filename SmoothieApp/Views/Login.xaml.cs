@@ -37,6 +37,7 @@ namespace SmoothieApp.Views
             if (user.ValidateSignIn())
             {
                 DisplayAlert("Login", "Login Success", "Ok");
+                App.UserDatabase.SaveUser(user);
             }
             else
             {
