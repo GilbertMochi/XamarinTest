@@ -1,0 +1,13 @@
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\bin\Debug\netstandard2.0\SmoothieApp.deps.json
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\bin\Debug\netstandard2.0\SmoothieApp.dll
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\bin\Debug\netstandard2.0\ref\SmoothieApp.dll
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\bin\Debug\netstandard2.0\SmoothieApp.pdb
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\SmoothieApp.csprojAssemblyReference.cache
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\SmoothieApp.AssemblyInfoInputs.cache
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\SmoothieApp.AssemblyInfo.cs
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\SmoothieApp.dll
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\ref\SmoothieApp.dll
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\SmoothieApp.pdb
+C:\Users\parad\OneDrive\Documents\Coding\SmoothieApp\SmoothieApp\SmoothieApp\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs

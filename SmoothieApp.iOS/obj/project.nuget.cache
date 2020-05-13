@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQoTj75YjVGYDOhSEm0ItrTgTFxiGvuzhwhkzIaSipOmXp8v15eOuGzscGgarRSLUadzo6RdH0jmpdFlUiizcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parad\\OneDrive\\Documents\\Coding\\SmoothieApp\\SmoothieApp\\SmoothieApp.iOS\\SmoothieApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parad\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\parad\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\parad\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\parad\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\parad\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\parad\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}
