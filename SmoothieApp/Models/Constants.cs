@@ -19,5 +19,9 @@ namespace SmoothieApp.Models
         #region logo sizes
         public static int LoginIconHeight = 100;
         #endregion
+
+        #region login
+        public static string LoginUrl = "https://test.com/api/Auth/Login";
+        #endregion
     }
 }

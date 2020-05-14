@@ -31,13 +31,17 @@ namespace SmoothieApp.Views
             Entry_Password.Completed += (s, e) => SignIn(s, e);//after passwrod has been set sign in
         }
 
-        void SignIn(object sender, EventArgs e)
+        async void SignIn(object sender, EventArgs e)
         {
             User user = new User(Entry_Username.Text, Entry_Password.Text);
             if (user.ValidateSignIn())
             {
                 DisplayAlert("Login", "Login Success", "Ok");
-                App.UserDatabase.SaveUser(user);
+                var result = await App.RestService.Login(user);
+                if (result.access_token != null)
+                {
+                    App.UserDatabase.SaveUser(user);
+                }
             }
             else
             {

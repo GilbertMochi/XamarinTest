@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wfUyUgJbuvySYyaP+Aq4zB84BODZbearbvYeXx/u384Zk9V9UN/05XoqEHK3PIlMFqLmlQRp7mDrKpeoX5DuiA==",
+  "dgSpecHash": "YFjApmgzr0psqO7Fd6j5mZic6NHqh+81o5GGJ03yInYNUvYZtXBJpWgK2CLyhgShzhJvTg54GiX37HkRjiHbPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\parad\\OneDrive\\Documents\\Coding\\SmoothieApp\\SmoothieApp\\SmoothieApp.Android\\SmoothieApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\parad\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\parad\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
     "C:\\Users\\parad\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
     "C:\\Users\\parad\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
